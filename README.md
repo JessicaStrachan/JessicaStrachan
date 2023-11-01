@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Typescript, TDD, integrating with Bloomreach**
 
-- 📝 I regularly write articles on [https://dev.to/jessicastrachan](https://dev.to/jessicastrachan)
+- 📱 Follow my Instagram page for all things digital and front end [@jessCodes.js[(https://www.instagram.com/jesscodes.js)
 
 - 💬 Ask me about **Semantic HTML, CSS (SASS and SCSS), Vanilla JS**
 
